@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "343258186463",
+        "project_id": "pairapp-d5fd7",
+        "storage_bucket": "pairapp-d5fd7.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:343258186463:android:78d6cf1b015213ee05df6a",
+                "android_client_info": {
+                    "package_name": "hr.ferit.marinelabekic.myapplication"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyA8JPybz2lO19VB8A5e3cLbu4SfebshNxM"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
